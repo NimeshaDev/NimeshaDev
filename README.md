@@ -6,8 +6,8 @@ I'm a QA Automation Engineer based in **Dublin, Ireland** with **4+ years of exp
 
 - 🎓 MSc in Information Systems and Computing - **First Class Honours**, Dublin Business School
 - ✅ **ISTQB Foundation** certified
-- 🔭 Currently building out my [QA Automation Portfolio](https://github.com/NimeshaDev/python-qa-learning)
-- 🌱 Learning more about test framework design, SQL and performance testing
+- 🔭 Currently building out my [Playwright + pytest QA Framework](https://github.com/NimeshaDev/playwright-pytest-qa-framework)
+- 🛠️ Next up: a payroll API test project (gross-to-net rules, API, SQL and BDD tests) based on my Paymate experience
 - 💼 Open to **QA Automation / SDET** roles in Ireland
 
 ---
@@ -31,7 +31,7 @@ I'm a QA Automation Engineer based in **Dublin, Ireland** with **4+ years of exp
 
 ### 🚀 Featured Project
 
-#### [QA Automation Portfolio](https://github.com/NimeshaDev/python-qa-learning)
+#### [Playwright + pytest QA Framework](https://github.com/NimeshaDev/playwright-pytest-qa-framework)
 
 An end-to-end test automation framework built with Python, Playwright and pytest.
 
